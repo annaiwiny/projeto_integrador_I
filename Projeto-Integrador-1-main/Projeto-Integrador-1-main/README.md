@@ -1,5 +1,2 @@
-# Surgimento do LineLeap!
-
-Bom, depois de várias ideias de como implementar nosso simulador de **Filas Mútiplas** chegamos à conclusão de que seria mais vantajoso utilzarmos o mais simples e tradicional (HTML, CSS e JavaScript).  Não que isso tenha tornado nosso projeto mais fácil de fazer, algumas coisas, como a implementação da responsividade, se tornaram um tanto quanto complexas e extensas, já que não utilizamos framework. Foram alguns meses de aprendizado e estresse, mas agora podemos dizer :
-
-> **Bem vindo ao mundo, LineLeap!**
+O projeto LineLeap tem como objetivo desenvolver uma aplicação web capaz de simular o funcionamento de filas múltiplas de forma interativa e didática. A proposta surgiu como parte do Projeto Integrador, visando aplicar os conhecimentos adquiridos em disciplinas como Lógica de Programação, Desenvolvimento Web e Estrutura de Dados.
+A ferramenta é voltada principalmente para fins educacionais, facilitando a compreensão de conceitos relacionados a filas, tempo de espera e organização de processos. A escolha por tecnologias básicas como HTML, CSS e JavaScript reforça a intenção de acessibilidade, leveza e facilidade de manutenção do sistema, mesmo sem o uso de frameworks modernos.
